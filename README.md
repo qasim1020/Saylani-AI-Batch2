@@ -81,6 +81,14 @@
         <img src="https://github.com/qasim1020/PIAIC-Artificial-Intelligence/blob/master/Images/Ai%20in%20Practise.png">
     </a>   
 </h1>
+
+<h1 align="right">
+    <h2>Pandas for Data Analysis in Python</h2>
+    <p>
+    link of <a href = "https://courses.analyticsvidhya.com/courses/pandas-for-data-analysis-in-python">Course</a>
+    </p>   
+</h1>
+
 <h2>Contribution Guideline</h2>
 Feel free to open a PR if you feel like something needs to be added or may be you want to suggest something.
 If you want to add something then your commit message should be like: <b>added [resource_name] to [section_name]</b>
